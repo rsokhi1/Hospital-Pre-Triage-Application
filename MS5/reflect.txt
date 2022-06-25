@@ -1,0 +1,20 @@
+/* Citation and Sources...
+Final Project Milestone 5
+Filename: reflect.cpp
+Version 1.0
+Author Rajbeer Sokhi
+Student id: 124969205
+Email: rsokhi1@myseneca.ca
+Section: NAA
+Revision 1.0
+-----------------------------------------------------------
+Date      Reason
+2021/8/2 Created the PreTriage module.  
+-----------------------------------------------------------
+I have done all the coding by myself and only copied the code 
+that my professor provided to complete my workshops and assignments.
+-----------------------------------------------------------*/
+
+In this project the work was divided into 5 parts. It was fun creating all the modules. In the first milestone we created functions that receive values from the user using the iostream's input and output operator. In the second milestone we used the concept of class inheritance. Also, we created IOAble class which is an abstract base class. In the third milestone we created two classes that inherit the previously created IOAble class. These classes used functions that allowd users to enter values, which were previously created in Milestone 1. In the ticket class, time was entered by the user and in the patient class patient information was entered by the user. I also added a step to save the value by reading the file from outside. In the fourth milestone, we inherited a already inherited class. We created two classes and these inherit the patient class which inherits the IOAble class. These two classes work similar to the patient class. In the last milestone, we created a single class and in this class patients were registered, predicted time taken and treated and advanced the line one by one when treated and we also created a step to store patients data and also to read the data from a file in the beginning. And a lot more was done in this project.
+
+I really liked the OOP244 course. I struggled a lot in IPC144 and found it very difficult and not very well structured but I found OOP244 very well structured especially the workshops and the projects were very well explained.
